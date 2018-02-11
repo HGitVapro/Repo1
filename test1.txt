@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9685-0F91
+
+ Directory of C:\HS\Learning\Trials_projects\JenkinsPractice\GitPrj1
+
+02/10/2018  08:52 PM    <DIR>          .
+02/10/2018  08:52 PM    <DIR>          ..
+02/10/2018  08:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  132,908,257,280 bytes free
